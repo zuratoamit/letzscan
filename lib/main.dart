@@ -32,5 +32,8 @@ void main() {
       'verifyOpt' : (context)=>const VerifyOtp(),
       'splashScreens' : (context)=>const SplashScreens(),
     },
+
+
+
   ));
 }
